@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Pair(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pair\r\n
+comment1.params=
+comment1.target=double\ getSum()
+comment2.params=
+comment2.target=double\ getDifference()
+comment3.params=
+comment3.target=double\ getProduct()
+comment4.params=
+comment4.target=double\ getAverage()
+comment5.params=
+comment5.target=double\ getDistance()
+comment6.params=
+comment6.target=double\ getMaximum()
+comment7.params=
+comment7.target=double\ getMinimum()
+numComments=8

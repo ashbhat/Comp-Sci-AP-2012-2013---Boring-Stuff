@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=BankAccount(double,\ double)
+comment1.params=initialBalance
+comment1.target=BankAccount(double)
+comment2.params=amount
+comment2.target=void\ setBalance(double)
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment5.params=
+comment5.target=void\ deductmonthlycharge()
+comment6.params=
+comment6.target=double\ getBalance()
+comment6.text=public\ void\ monthreset()\r\n\ \ \ {\r\n\ \ \ \ \ \ \ fee2\ \=\ fee2\ +\ fee;\r\n\ \ \ \ \ \ \ numofedits\ \=\ 0;\r\n}
+numComments=7

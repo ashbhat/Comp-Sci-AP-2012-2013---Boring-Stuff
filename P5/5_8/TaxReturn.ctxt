@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=anIncome\ aStatus
+comment0.target=TaxReturn(double,\ int)
+comment0.text=\ \r\n\ Constructs\ a\ TaxReturn\ object\ for\ given\ income\ and\ marital\ status.\ \r\n\ \ \ @param\ anIncome\ the\ taxpayer\ income\ \r\n\ \ \ @param\ aStatus\ either\ TaxReturn.SINGLE\ or\ TaxReturn.MARRIED\ \r\n
+comment1.params=
+comment1.target=double\ getTax()
+comment1.text=\r\n\ Calculates\ the\ tax\ owed\ by\ the\ filer.\r\n\ \ \ @return\ the\ amount\ (in\ dollars)\ owed\r\n
+numComments=2

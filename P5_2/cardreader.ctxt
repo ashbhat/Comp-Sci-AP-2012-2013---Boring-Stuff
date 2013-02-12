@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=dad
+comment0.target=cardreader(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ cardreader\n
+comment1.params=
+comment1.target=java.lang.String\ getString()
+numComments=2

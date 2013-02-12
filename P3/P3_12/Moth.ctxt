@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=initialposition
+comment0.target=Moth(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Moth\r\n
+comment1.params=lightPosition
+comment1.target=void\ moveToLight(double)
+comment2.params=
+comment2.target=double\ getPosition()
+numComments=3

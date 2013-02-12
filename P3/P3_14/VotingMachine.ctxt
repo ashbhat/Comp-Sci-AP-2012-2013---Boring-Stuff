@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VotingMachine()
+comment1.params=
+comment1.target=void\ republican()
+comment2.params=
+comment2.target=void\ democrat()
+comment3.params=
+comment3.target=int\ getD()
+comment4.params=
+comment4.target=int\ getR()
+comment5.params=
+comment5.target=int\ getTotal()
+comment6.params=
+comment6.target=void\ cleanslate()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=w\ y\ z
+comment0.target=Quadratic(double,\ double,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Quadratic\n
+comment1.params=
+comment1.target=double\ getSolution1()
+comment2.params=
+comment2.target=double\ getSolution2()
+numComments=3

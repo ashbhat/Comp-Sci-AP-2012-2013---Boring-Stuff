@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=rate
+comment0.target=CashRegister(double)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ cash\ register\ with\ no\ money\ in\ it.\r\n
+comment1.params=amount
+comment1.target=void\ recordPurchase(double)
+comment1.text=\r\n\ \ \ \ \ \ Records\ the\ sale\ of\ an\ item.\r\n\ \ \ \ \ \ @param\ amount\ the\ price\ of\ the\ item\r\n
+comment2.params=amount
+comment2.target=void\ recordtaxablePurchase(double)
+comment3.params=amount
+comment3.target=void\ enterPayment(double)
+comment3.text=\r\n\ \ \ \ \ \ Enters\ the\ payment\ received\ from\ the\ customer.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ of\ the\ payment\r\n
+comment4.params=
+comment4.target=double\ giveChange()
+comment4.text=\r\n\ \ \ \ \ \ Computes\ the\ change\ due\ and\ resets\ the\ machine\ for\ the\ next\ customer.\r\n\ \ \ \ \ \ @return\ the\ change\ due\ to\ the\ customer\r\n
+comment5.params=
+comment5.target=double\ giveTotal()
+comment6.params=
+comment6.target=double\ giveTotalSales()
+comment7.params=
+comment7.target=double\ giveTotalTax()
+comment7.text=\ public\ void\ recordtaxablePurchase(double\ amount)\r\n\ \ \ {\ \r\n\ \ \ \ \ \ double\ pretotal\ \=\ purchase\ +\ amount;\r\n\ \ \ \ \ \ allsales\ \=\ pretotal;\r\n\ \ \ \ \ \ purchase\ \=\ pretotal;\r\n\ \ \ \ \ \ tax\ \=\ pretotal\ *\ 0.1;\r\n\ \ \ \ \ \ double\ total\ \=\ purchase\ +\ tax\ +\ amount;\r\n\ \ \ \ \ \ numberofpurchases\ \=\ numberofpurchases\ +\ 1;\r\n}
+numComments=8
