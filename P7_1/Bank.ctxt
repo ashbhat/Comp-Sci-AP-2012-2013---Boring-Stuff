@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bank()
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ bank\ with\ no\ bank\ accounts.\r\n
+comment1.params=a
+comment1.target=void\ addAccount(BankAccount)
+comment1.text=\r\n\ \ \ \ \ \ Adds\ an\ account\ to\ this\ bank.\r\n\ \ \ \ \ \ @param\ a\ the\ account\ to\ add\r\n
+comment2.params=
+comment2.target=double\ getTotalBalance()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ sum\ of\ the\ balances\ of\ all\ accounts\ in\ this\ bank.\r\n\ \ \ \ \ \ @return\ the\ sum\ of\ the\ balances\r\n
+comment3.params=atLeast
+comment3.target=int\ count(double)
+comment3.text=\r\n\ \ \ \ \ \ Counts\ the\ number\ of\ bank\ accounts\ whose\ balance\ is\ at\r\n\ \ \ \ \ \ least\ a\ given\ value.\r\n\ \ \ \ \ \ @param\ atLeast\ the\ balance\ required\ to\ count\ an\ account\r\n\ \ \ \ \ \ @return\ the\ number\ of\ accounts\ having\ least\ the\ given\ balance\r\n
+comment4.params=accountNumber
+comment4.target=BankAccount\ find(int)
+comment4.text=\r\n\ \ \ \ \ \ Finds\ a\ bank\ account\ with\ a\ given\ number.\r\n\ \ \ \ \ \ @param\ accountNumber\ the\ number\ to\ find\r\n\ \ \ \ \ \ @return\ the\ account\ with\ the\ given\ number,\ or\ null\ if\ there\r\n\ \ \ \ \ \ is\ no\ such\ account\r\n
+comment5.params=
+comment5.target=BankAccount\ getMaximum()
+comment5.text=\r\n\ \ \ \ \ \ Gets\ the\ bank\ account\ with\ the\ largest\ balance.\r\n\ \ \ \ \ \ @return\ the\ account\ with\ the\ largest\ balance,\ or\ null\ if\ the\r\n\ \ \ \ \ \ bank\ has\ no\ accounts\r\n
+comment6.params=
+comment6.target=void\ printAccountInformation()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
